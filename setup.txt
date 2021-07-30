@@ -1,0 +1,7 @@
+Aplicativo para Uploads de arquivos com Nodejs
+
+npm init
+npm install --save express
+npm install --save ejs
+npm install --save multer (biblioteca para upload)
+npm install --save nodemon
